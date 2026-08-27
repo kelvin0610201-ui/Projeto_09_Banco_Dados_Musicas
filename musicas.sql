@@ -145,3 +145,5 @@ INSERT INTO musicas (titulo, artista, album, genero, duracao_segundos, ano_lanca
 ('Young Girls', 'Bruno Mars', 'Unorthodox Jukebox', 'Pop', 227, 2012, 300000000),
 ('Natalie', 'Bruno Mars', 'Unorthodox Jukebox', 'Pop', 229, 2012, 250000000),
 ('Chunky', 'Bruno Mars', '24K Magic', 'Funk', 187, 2016, 350000000)
+
+SELECT * from musicas
